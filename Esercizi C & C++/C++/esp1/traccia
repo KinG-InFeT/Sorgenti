@@ -1,0 +1,8 @@
+C++ - Esercizio
+
+Creare un programma in C++ che esegua le seguenti operazioni:
+
+1) Definire il numero massimo e il numero minimo in una serie di numeri
+2) Faccia la somma dell'ultima e della penultima cifra del numero massimo
+3) Faccia la somma dell'ultima e penultima  cifra del numero minimo
+4) Faccia il conteggio delle dei numeri pari contenenti nelle celle dispari

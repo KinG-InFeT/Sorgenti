@@ -1,0 +1,4 @@
+esp2 - TRACCIA
+
+Creare un programma che gestisca tramite una struct in C++ la temperatura
+massima e minima di una citta'.
